@@ -18,4 +18,4 @@ $ go test ./... -coverprofile=coverage.out
 $ go tool cover -html=coverage.out
 ```
 
-![My Image](https://github.com/yuttasakcom/go-unit-test-workshop/blob/master/result-test.png)
+![My Image](https://github.com/yuttasakcom/go-unit-test-workshop/blob/master/images/result-test.png)
