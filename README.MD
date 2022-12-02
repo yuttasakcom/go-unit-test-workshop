@@ -10,3 +10,12 @@
 - We won't use any third party testing package at all (e.g. Testify)
 - We'll write unit test admin integration tests
 ```
+
+## Run test show coverage
+
+```bash
+$ go test ./... -coverprofile=coverage.out
+$ go tool cover -html=coverage.out
+```
+
+![My Image](https://github.com/yuttasakcom/go-unit-test-workshop/blob/master/result-test.png)

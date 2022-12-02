@@ -1,0 +1,10 @@
+mode: set
+github.com/yuttasakcom/go-unit-test-workshop/main.go:5.13,10.2 3 0
+github.com/yuttasakcom/go-unit-test-workshop/main.go:12.36,13.22 1 1
+github.com/yuttasakcom/go-unit-test-workshop/main.go:17.2,17.11 1 1
+github.com/yuttasakcom/go-unit-test-workshop/main.go:21.2,21.27 1 1
+github.com/yuttasakcom/go-unit-test-workshop/main.go:27.2,27.54 1 1
+github.com/yuttasakcom/go-unit-test-workshop/main.go:13.22,15.3 1 1
+github.com/yuttasakcom/go-unit-test-workshop/main.go:17.11,19.3 1 1
+github.com/yuttasakcom/go-unit-test-workshop/main.go:21.27,22.15 1 0
+github.com/yuttasakcom/go-unit-test-workshop/main.go:22.15,24.4 1 0
